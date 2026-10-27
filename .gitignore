@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+.idea/
+.vs/
+*.user
+*.doc
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+~$*
